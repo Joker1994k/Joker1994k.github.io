@@ -1,3 +1,8 @@
+---
+title: Focal loss
+date: 2017-12-25 10:27:53
+---
+
 ###Focal Loss for Dense Object Detection 
 
 [论文链接](http://cn.arxiv.org/pdf/1708.02002.pdf) 
