@@ -1,3 +1,10 @@
+---
+title: Focal loss
+mathjax: true
+type: categories
+categories: paper-note
+---
+
 ###Focal Loss for Dense Object Detection 
 
 [论文链接](http://cn.arxiv.org/pdf/1708.02002.pdf) 
