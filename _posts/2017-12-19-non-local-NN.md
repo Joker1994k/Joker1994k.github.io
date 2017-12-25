@@ -19,7 +19,7 @@ y_i=\frac{1}{c(x)}\sum_{\forall j} f(x_i,x_j)g(x_j)
 $$
 ​    其中$y$ 与$x$ 分别表示输出与输入信号，其中小标$i$ 表征输出的位置，为待计算量，小标$j$ 表示输入信号中的需要加权的位置，函数$g(\cdot)$ 表示输入信号在某个特定位置的特征表述，$f(\cdot)$ 表述位置间的相对关系，可以理解为加权和的权值计算函数。
 
-作者文中提到的non-local结构如下所示：
+作者文中提到的non-local结构如下：
 
 ​    ![](https://github.com/izhaolei/images/blob/master/figure1.PNG?raw=true)
 
