@@ -5,7 +5,7 @@ type: categories
 categories: paper-note
 ---
 
-###Focal Loss for Dense Object Detection 
+### Focal Loss for Dense Object Detection 
 
 [论文链接](http://cn.arxiv.org/pdf/1708.02002.pdf) 
 
@@ -15,7 +15,7 @@ categories: paper-note
 
 #### 主要实现 
 
-#####公式原理 
+##### 公式原理 
 
 ​	$FL(p_t)=-α_t(1-p_t)^γ log(p_t)$  
 
